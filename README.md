@@ -9,6 +9,6 @@ Welcome to our GitHub profile! We passionate about coding, exploring new technol
 We are always open to new opportunities and collaborations. Feel free to reach out:
 
 - GitHub: [@smflow](https://github.com/smflow)
-- Email: [Your Email Address](mailto:smflow1400@gmail.com)
+- Email: [smflow1400@gmail.com](mailto:smflow1400@gmail.com)
 
 Let's connect and build something amazing together!
